@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ssahithafridi
 - 👀 I’m interested in C Language
-- 🌱 I’m currently learning Electronics and Communication Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m completed my graduation in Electronics and Communication Engineering
+- 💞️ I’m looking to collaborate on Full stack Development
+- 📫 How to reach me ssahithafridi@gmail.com
 
 <!---
 ssahithafridi/ssahithafridi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
