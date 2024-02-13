@@ -7,7 +7,7 @@
 - gitHub: https://github.com/sahithcad01
 - Linkedin: https://linkedin/in/sahithafridi
 - HackerEarth: https://hackerearth.com/@sahithafridi
-- HackerRank: https://hackerrank.com/sshithafridi
+- HackerRank: https://hackerrank.com/ssahithafridi
 - LeetCode: https://leetcode.com/sahithafridi
 - GeeksForGeeks: https://auth.geeksforgeeks.org/user/ssahithdl8e
 - FreeCodeCamp: https://www.freecodecamp.org/sahithafridi
