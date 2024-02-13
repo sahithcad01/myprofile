@@ -11,7 +11,7 @@
 - LeetCode: https://leetcode.com/sahithafridi
 - GeeksForGeeks: https://auth.geeksforgeeks.org/user/ssahithdl8e
 - FreeCodeCamp: https://www.freecodecamp.org/sahithafridi
-- SkillRack: bit.ly/sahithafridi-skillrackprofile
+- SkillRack: https://bit.ly/sahithafridi-skillrackprofile
 - 
 <!---
 ssahithafridi/sahithcad01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
