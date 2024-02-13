@@ -5,7 +5,7 @@
 - 📫 How to reach me ssahithafridi@gmail.com
 - Accounts:
 - gitHub: https://github.com/sahithcad01
-- Linkedin: https://linkedin/in/sahithafridi
+- Linkedin: https://linkedin.com/in/sahithafridi
 - HackerEarth: https://hackerearth.com/@sahithafridi
 - HackerRank: https://hackerrank.com/ssahithafridi
 - LeetCode: https://leetcode.com/sahithafridi
